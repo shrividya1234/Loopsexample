@@ -1,0 +1,15 @@
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\bin\Debug\net8.0\Loopsexample.exe
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\bin\Debug\net8.0\Loopsexample.deps.json
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\bin\Debug\net8.0\Loopsexample.runtimeconfig.json
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\bin\Debug\net8.0\Loopsexample.dll
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\bin\Debug\net8.0\Loopsexample.pdb
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\obj\Debug\net8.0\Loopsexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\obj\Debug\net8.0\Loopsexample.AssemblyInfoInputs.cache
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\obj\Debug\net8.0\Loopsexample.AssemblyInfo.cs
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\obj\Debug\net8.0\Loopsexample.csproj.CoreCompileInputs.cache
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\obj\Debug\net8.0\Loopsexample.sourcelink.json
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\obj\Debug\net8.0\Loopsexample.dll
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\obj\Debug\net8.0\refint\Loopsexample.dll
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\obj\Debug\net8.0\Loopsexample.pdb
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\obj\Debug\net8.0\Loopsexample.genruntimeconfig.cache
+C:\Users\shriv\OneDrive\Desktop\repos\Loopsexample\Loopsexample\obj\Debug\net8.0\ref\Loopsexample.dll
